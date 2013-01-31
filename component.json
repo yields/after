@@ -1,0 +1,13 @@
+{
+  "name": "after",
+  "repo": "yields/after",
+  "description": "insert after the given `element`",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
