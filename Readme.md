@@ -22,7 +22,7 @@ a.nextSibling.innerText; // > Hello, World
 
 ## API
 
-  ### after(a, b)
+### after(a, b)
 
   Insert `b` after `a`.
 
